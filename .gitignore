@@ -1,5 +1,5 @@
-# Compiled class file
-*.class
+# Project exclude paths
+/out/
 
 # Log file
 *.log
